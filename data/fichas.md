@@ -34,5 +34,5 @@ Dimensiones: 100x70
 Técnica: Tipografía sobre papel
 Archivo: zocalo-tragedia.jpg
 
-Título: Exmilitar Mata a la Ezposa de su Amigo y se Suicida
+Título: Exmilitar Mata a la Esposa de su Amigo y se Suicida
 Archivo: exmilitar-mata-esposa.jpg
